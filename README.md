@@ -90,7 +90,7 @@ Artemis/
 1. **Clone repository atau tambahkan sebagai submodule:**
 
 ```bash
-git clone https://github.com/rezacrown/Artemis.git
+git clone https://github.com/luxz71/Artemis.git
 cd Artemis
 ```
 
